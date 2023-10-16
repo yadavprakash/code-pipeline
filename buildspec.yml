@@ -9,10 +9,10 @@ phases:
         # install npm
         - npm install
        
-  build:
-    commands:
-        # run build script
-        - npm run-script build
+#  build:
+#    commands:
+#        # run build script
+#        - npm run-script build
      
 artifacts:
   # include all files required to run application
